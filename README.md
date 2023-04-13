@@ -9,3 +9,6 @@ It allows users to manage their tasks from a smartphone, tablet and computer.
 -- long press on activity to delete
 
 ![image](https://user-images.githubusercontent.com/67244269/231773240-309e65a0-b12d-48c0-9c43-110114955af4.png)
+
+https://user-images.githubusercontent.com/67244269/231773485-2086048d-aefe-4e3e-837f-ebaa3670b181.mp4
+
