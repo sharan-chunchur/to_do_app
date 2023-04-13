@@ -6,7 +6,7 @@ It allows users to manage their tasks from a smartphone, tablet and computer.
 
 -- view to-do list
 
--- click check mark to mark as completed and activity will be striked
+-- click check box to mark as completed and activity will be striked
 
 -- click on add button to add new activity to list
 
